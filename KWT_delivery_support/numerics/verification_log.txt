@@ -1,0 +1,18 @@
+PACKED input_words=3168 parameter_slots=12 words_per_slot=13312
+PASS records: input and 12 parameter images byte-identical
+PACKED input_words=3168 parameter_slots=12 words_per_slot=13312
+PASS onnx: input and 12 parameter images byte-identical
+PASS ModelSim platform and VCS package use 22 identical accelerator source files
+L01 exact=6336/6336 max_abs=0
+L02 exact=6336/6336 max_abs=0
+L03 exact=6336/6336 max_abs=0
+L04 exact=6336/6336 max_abs=0
+L05 exact=6336/6336 max_abs=0
+L06 exact=6336/6336 max_abs=0
+L07 exact=6336/6336 max_abs=0
+L08 exact=6336/6336 max_abs=0
+L09 exact=6336/6336 max_abs=0
+L10 exact=6336/6336 max_abs=0
+L11 exact=6336/6336 max_abs=0
+L12 exact=6336/6336 max_abs=0
+RTL comparison: 12 x 6336 bit-identical FP16 elements

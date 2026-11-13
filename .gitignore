@@ -1,0 +1,24 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Common simulation and synthesis working directories
+csrc/
+simv
+simv.daidir/
+DVEfiles/
+ucli.key
+*.vpd
+*.vcd
+*.fsdb
+work/
+build/
+
